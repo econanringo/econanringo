@@ -10,8 +10,6 @@
 ![](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)
-## お問い合わせ/Contact
-penguin-123456.inquiry@simaenaga.com
 
 <!---
 Penguin-123456/Penguin-123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

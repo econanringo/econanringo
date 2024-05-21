@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift)
 
 <!---
 Penguin-123456/Penguin-123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

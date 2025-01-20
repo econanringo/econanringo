@@ -14,8 +14,11 @@
 ![](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=htmx)
 ![](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift)
+![](https://img.shields.io/badge/bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
 
 <!---
 econanringo/econanringo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
